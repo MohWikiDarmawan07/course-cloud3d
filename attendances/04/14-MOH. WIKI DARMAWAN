@@ -1,0 +1,26 @@
+Pertemuan 4
+Komponen-komponen dalam Networking:
+1. VIRTUAL CLOUD NETWORK (VCN)
+2. SUBNETS
+3. VNIC (Virtual Network Interface Cards)
+4. PRIVATE IP
+5. PUBLIC IP
+6. IPV6
+7. DYNAMIC ROUTING GATEWAY (DRG)
+8. INTERNET GATEWAY
+9. NETWORK ADDRESS TRANSLATION (NAT) GATEWAY
+10. SERVICE GATEWAY
+11. LOCAL PEERING GATEWAY (LPG)
+12. REMOTE PEERING CONNECTION (RPC)
+13. ROUTE TABLES
+14. SECURITY RULES
+15. DHCP OPTIONS
+
+VIRTUAL CLOUD NETWORK (VCN)
+VCN memiliki aturan tentang firewall dan gateway komunikasi. Jadi dengan adanya VCN memungkinkan untuk mengatur jaringan cloud, seperti IP, Subnet, Routing dan Firewall.
+
+Port Web Server
+untuk port web server yang sering digunakan ada 3 yaitu HTTP (port 80) , HTTPS (port 443) , SSH (22)
+
+Aturan firewal dapat memilih aturan yang diberikan bersifat stateful atau stateless. Untuk menerapkan aturan keamanan, 
+Anda dapat menggunakan group keamanan jaringan atau daftar keamanan.
